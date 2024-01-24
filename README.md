@@ -21,3 +21,13 @@
         # Mengubah Konten HTML - Memanipulasi Atri.
         # Mengubah Konten HTML - Memanipulasi Kont...
         # Menambahkan Elemen HTML ke DOM
+    # hari ke-02
+        # Pendahuluan Interaktif dengan Event
+        # Apa Itu Event
+        # Macam-Macam Event
+        # Menambahkan Event Handler - Menyiapkan H...
+        # Menambahkan Event Handler - Membuat even...
+        # Menambahkan Event Handler - Membuat even...2
+        # Menambahkan Event Handler - Menerapkan e...
+        # Menambahkan Event Handler - Menerapkan e...2
+        # 

@@ -30,4 +30,15 @@
         # Menambahkan Event Handler - Membuat even...2
         # Menambahkan Event Handler - Menerapkan e...
         # Menambahkan Event Handler - Menerapkan e...2
-        # 
+    # hari ke-03
+        # Menambahkan Custom Event
+        # Membangkitkan Custom Event
+        # Event Bubbling dan Capturing
+        # Pengenalan ke Form
+        # Form Event
+        # Input Event: Menyiapkan Halaman Web
+        # Input Event: onInput, onFocus, dan onBlu...
+        # Input Event: onChange, onCopy, dan onPas...
+        # Input Event: Hasil Akhir
+    # hari ke-04
+        #
